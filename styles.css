@@ -11,3 +11,8 @@ body {
   justify-content: center;
   color: white;
 }
+
+a {
+  color: white;
+  text-decoration: underline;
+}
