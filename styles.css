@@ -2,7 +2,6 @@ html, body {
     height: 100%;
     background-color:#C02040;
     font-family:arial;
-    text-color:white;
     text-align:center;
 }
 
@@ -10,4 +9,5 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: white;
 }
