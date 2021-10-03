@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "quantech.rs",
+  "Id": "474fde39-10c8-4e60-a9ce-c92a86bf58e6"
+}
